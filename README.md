@@ -3,6 +3,8 @@ First MapReduce program using Hadoop.
 
 This is my first MapReduce program, following the information given in Chapter 2 of *Hadoop: The Definitive Guide*
 
+This Hadoop job was written and tested using Hadoop 1.2.1
+
 # Instructions
 To run my first MapReduce job, do the following:
 1. Install Hadoop on your local machine. Recommended to use in standalone mode, as it simplifies configuration
